@@ -104,7 +104,7 @@ function writeToFile(...args) {
 }
 
 function init() {
-	inquirer.prompt([...questions]).then(function (response) {
+	inquirer.prompt(questions).then(function (response) {
 		const answers = [];
 		for (const key in response) {
 			answers.push(response[key]);
