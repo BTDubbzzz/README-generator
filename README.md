@@ -1,8 +1,9 @@
-# a
+# Good README.md Generator
 
 ## Description
 
-a
+This application aims to make generating a README file for your application easy and repeatable. Just follow the input requests
+and this will generate a professional, pre-formatted README with all the info you need.
 
 ## Table of Contents 
 ​
@@ -20,28 +21,30 @@ a
 
 ## Installation
 
-a
+This app requires Node and NPM to be installed to work.
+First you will need to clone or download this repository to your machine
+
+Then in your terminal, while in the repo folder, run the following command
 
 ```
-a
+npm install
 ```
+Your applicationa and all its dependencies should now be installed
 
 ## Usage
 
-a
+This can be used by following these steps
 
-## Contributing
+While on the repo foler in your terminal, run the following command to start the application
 
-a
+```
+node ./index.js
+```
 
-## Testing
+Answer the prompts and your README will be generated in the same folder as you are already working in
 
-a
 
 ## Questions
 
-You can find more of my work at [a](https://github.com/a).
-If you have any questions about the repo, open an issue or contact me directly at a. 
-
-## License
-Academic Free License  ![Academic Free License](https://img.shields.io/badge/license-v3.0%20afl--3.0-blue)
+You can find more of my work at [BTDubbzzz-gitHub](https://github.com/BTDubbzzz).
+If you have any questions about the repo, open an issue or contact me directly at wright.blake.t@gmail.com 
