@@ -35,13 +35,15 @@ Your applicationa and all its dependencies should now be installed
 
 This can be used by following these steps
 
-While on the repo foler in your terminal, run the following command to start the application
+While on the repo folder in your terminal, run the following command to start the application
 
 ```
 node ./index.js
 ```
 
 Answer the prompts and your README will be generated in the same folder as you are already working in
+
+[Here is a video demonstration of the application in use](https://drive.google.com/file/d/1sZcBuWXDb5WUapkmEUUUMvZbvGzNcJye/view)
 
 
 ## Questions
