@@ -11,13 +11,7 @@ and this will generate a professional, pre-formatted README with all the info yo
 ​
 * [Usage](#usage)
 ​
-* [Contributing](#contributing)
-​
-* [Testing](#testing)
-​
 * [Questions](#questions)
-
-* [License](#license)
 
 ## Installation
 
